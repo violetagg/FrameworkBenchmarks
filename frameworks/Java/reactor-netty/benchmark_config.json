@@ -1,0 +1,24 @@
+{
+  "framework": "reactor-netty",
+  "tests": [{
+    "default": {
+      "json_url": "/json",
+      "plaintext_url": "/plaintext",
+      "port": 8080,
+      "approach": "Realistic",
+      "classification": "Platform",
+      "database": "None",
+      "framework": "reactor-netty",
+      "language": "Java",
+      "flavor": "None",
+      "orm": "Raw",
+      "platform": "Reactor Netty",
+      "webserver": "None",
+      "os": "Linux",
+      "database_os": "Linux",
+      "display_name": "reactor-netty",
+      "notes": "",
+      "versus": "reactor-netty"
+    }
+  }]
+}
